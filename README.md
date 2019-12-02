@@ -12,7 +12,7 @@ Information comes from different sources:
  
 Data from the calls to the SFFD was aggregated by day and merged with weather data. Creation of the time series model involved __feature engineering__ like:
 - __RainxGusts =__ (precipitation x gust at 5 seconds)<sup>2</sup>
-- __Moving holidays__ such as thanks giving
+- __Moving holidays__ such as thanksgiving
 
 The project was developped in Python 3 using libraries such as: Pandas, Sklearn and ipywidgets
 
