@@ -16,12 +16,4 @@ Data from the calls to the SFFD was aggregated by day and merged with weather da
 
 The project was developped in Python 3 using libraries such as: Pandas, Sklearn and ipywidgets
 
-Download the Jupyter notebook to play with an interactive tool to forecast the calls of the following day for SFFD. These are the necessary files:
-
-- FireCallsGeorgina.ipynb  (the notebook)
-- byDay.csv  (aggregated calls to SFFD)
-- MyFunctions.py   (python functions for the notebook)
-- temp2003_2019.csv  (daily temperature and precipitation)
-- wind2003_2019.csv   (daily wind)
-
-Results from the notebook are available in html and pdf format for your convenience
+Download the Jupyter notebook to play with this interactive tool that forecasts the calls to SFFD distpatch and enjoy!
